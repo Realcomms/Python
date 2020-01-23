@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b2065f0e-cf73-4633-973f-f3158e658e1b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UojheUbPXamqbjHS5QA39s3Lhr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager" selected="Python.02.Api코드를파일로변환하여저장하기">
+    <configuration name="01.국내관광정보API" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="006.GovDataApi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../006.GovDataApi" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../006.GovDataApi/01.국내관광정보API.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="01.File처리" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="007.File" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../007.File" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../007.File/01.File처리.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="02.Api코드를파일로변환하여저장하기" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="007.File" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../007.File" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../007.File/02.Api코드를파일로변환하여저장하기.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="02.Api_서울심야약국수" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="006.GovDataApi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../006.GovDataApi" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../006.GovDataApi/02.Api_서울심야약국수.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="03.Api_서울심야약국수2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="006.GovDataApi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../006.GovDataApi" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../006.GovDataApi/03.Api_서울심야약국수2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.02.Api코드를파일로변환하여저장하기" />
+        <item itemvalue="Python.01.File처리" />
+        <item itemvalue="Python.03.Api_서울심야약국수2" />
+        <item itemvalue="Python.02.Api_서울심야약국수" />
+        <item itemvalue="Python.01.국내관광정보API" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2065f0e-cf73-4633-973f-f3158e658e1b" name="Default Changelist" comment="" />
+      <created>1576029962675</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576029962675</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579658838275">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="414" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.60.1680.1020/-1920.0.1920.1080/0.0.1920.1050@0.0.1920.1050" timestamp="1579658838275" />
+    <state x="709" y="326" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579659009796">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="709" y="326" key="#com.intellij.fileTypes.FileTypeChooser/1920.60.1680.1020/-1920.0.1920.1080/0.0.1920.1050@0.0.1920.1050" timestamp="1579659009796" />
+    <state x="707" y="359" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1579675932376">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="707" y="359" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/1920.60.1680.1020/-1920.0.1920.1080/0.0.1920.1050@0.0.1920.1050" timestamp="1579675932376" />
+    <state x="717" y="403" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1579659058914">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="717" y="403" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/1920.60.1680.1020/-1920.0.1920.1080/0.0.1920.1050@0.0.1920.1050" timestamp="1579659058914" />
+    <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1579740507463">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="279" key="FileChooserDialogImpl/1920.60.1680.1020/-1920.0.1920.1080/0.0.1920.1050@0.0.1920.1050" timestamp="1579740507463" />
+    <state x="828" y="414" key="Github.ShareDialog" timestamp="1579740369263">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="828" y="414" key="Github.ShareDialog/1920.60.1680.1020/-1920.0.1920.1080/0.0.1920.1050@0.0.1920.1050" timestamp="1579740369263" />
+    <state width="1229" height="280" key="GridCell.Tab.0.bottom" timestamp="1579744046068">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1229" height="280" key="GridCell.Tab.0.bottom/1920.60.1680.1020/-1920.0.1920.1080/0.0.1920.1050@0.0.1920.1050" timestamp="1579744046068" />
+    <state width="1229" height="280" key="GridCell.Tab.0.center" timestamp="1579744046067">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1229" height="280" key="GridCell.Tab.0.center/1920.60.1680.1020/-1920.0.1920.1080/0.0.1920.1050@0.0.1920.1050" timestamp="1579744046067" />
+    <state width="1229" height="280" key="GridCell.Tab.0.left" timestamp="1579744046067">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1229" height="280" key="GridCell.Tab.0.left/1920.60.1680.1020/-1920.0.1920.1080/0.0.1920.1050@0.0.1920.1050" timestamp="1579744046067" />
+    <state width="1229" height="280" key="GridCell.Tab.0.right" timestamp="1579744046068">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1229" height="280" key="GridCell.Tab.0.right/1920.60.1680.1020/-1920.0.1920.1080/0.0.1920.1050@0.0.1920.1050" timestamp="1579744046068" />
+    <state width="949" height="346" key="GridCell.Tab.1.bottom" timestamp="1579673657821">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="949" height="346" key="GridCell.Tab.1.bottom/1920.60.1680.1020/-1920.0.1920.1080/0.0.1920.1050@0.0.1920.1050" timestamp="1579673657821" />
+    <state width="949" height="346" key="GridCell.Tab.1.center" timestamp="1579673657821">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="949" height="346" key="GridCell.Tab.1.center/1920.60.1680.1020/-1920.0.1920.1080/0.0.1920.1050@0.0.1920.1050" timestamp="1579673657821" />
+    <state width="949" height="346" key="GridCell.Tab.1.left" timestamp="1579673657821">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="949" height="346" key="GridCell.Tab.1.left/1920.60.1680.1020/-1920.0.1920.1080/0.0.1920.1050@0.0.1920.1050" timestamp="1579673657821" />
+    <state width="949" height="346" key="GridCell.Tab.1.right" timestamp="1579673657821">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="949" height="346" key="GridCell.Tab.1.right/1920.60.1680.1020/-1920.0.1920.1080/0.0.1920.1050@0.0.1920.1050" timestamp="1579673657821" />
+    <state x="357" y="157" key="SettingsEditor" timestamp="1579740913825">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="357" y="157" key="SettingsEditor/1920.60.1680.1020/-1920.0.1920.1080/0.0.1920.1050@0.0.1920.1050" timestamp="1579740913825" />
+    <state x="92" y="92" width="1736" height="866" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1579676514260">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="92" y="92" width="1736" height="866" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/1920.60.1680.1020/-1920.0.1920.1080/0.0.1920.1050@0.0.1920.1050" timestamp="1579676514260" />
+    <state x="657" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1579673674797">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="657" y="347" key="com.intellij.ide.util.TipDialog/1920.60.1680.1020/-1920.0.1920.1080/0.0.1920.1050@0.0.1920.1050" timestamp="1579673674797" />
+    <state x="587" y="76" width="745" height="897" key="find.popup" timestamp="1579658935065">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="587" y="76" width="745" height="897" key="find.popup/1920.60.1680.1020/-1920.0.1920.1080/0.0.1920.1050@0.0.1920.1050" timestamp="1579658935065" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1579238510915">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/1920.60.1680.1020/-1920.0.1920.1080/0.0.1920.1050@0.0.1920.1050" timestamp="1579238510915" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../007.File/02.Api코드를파일로변환하여저장하기.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

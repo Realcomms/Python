@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.8 (001.FirstStart)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="002.Crawling" />
+    <orderEntry type="module" module-name="003.Crawling_Link_ContentsCollector" />
+    <orderEntry type="module" module-name="004.Json" />
+    <orderEntry type="module" module-name="005.NaverApi" />
+    <orderEntry type="module" module-name="006.GovDataApi" />
+    <orderEntry type="module" module-name="007.File" />
+  </component>
+</module>
